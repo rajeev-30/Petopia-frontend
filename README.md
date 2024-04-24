@@ -14,10 +14,10 @@ Before you begin, ensure you have met the following requirements:
 To run **Petopia** locally, run this command on your git bash:
 Linux and macOS:
 ```bash
-sudo git clone https://github.com/rajeev-30/Petopia.git
+sudo git clone https://github.com/rajeev-30/Petopia-frontend.git
 ```
 Windows:
 ```bash
-git clone https://github.com/rajeev-30/Petopia.git
+git clone https://github.com/rajeev-30/Petopia-frontend.git
 ```
 
